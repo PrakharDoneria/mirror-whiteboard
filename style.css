@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+}
+
+#myCanvas {
+    background: #fff;
+    cursor: crosshair;
+}
+
+#cnt {
+	position:absolute;
+	top:0;
+  text-align: center;
+  width: 100%;
+}
+button{ 
+  border:2px solid black;
+
+          padding:17px 15px;
+
+          border-radius:15px 14px;
+
+          width:100%;
+
+          cursor:pointer;
+
+          font-family:'Roboto', sans-serif;
+
+          font-size:15px;
+
+          background-color:rgb(225,195,225);
+
+          box-shadow: 5px 5px grey;  
+
+}
